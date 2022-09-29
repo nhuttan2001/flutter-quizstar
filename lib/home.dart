@@ -7,6 +7,9 @@ class homepage extends StatefulWidget {
   _homepageState createState() => _homepageState();
 }
 
+class StatefulWidget {
+}
+
 class _homepageState extends State<homepage> {
 
   List<String> images = [
